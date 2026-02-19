@@ -46,11 +46,30 @@ Always happy to learn more.
 
 ---
 
+## 🔧Recent Activity
+
+<!-- START_SECTION: activity -- >
+
+<!-- END_SECTION: activity -- >
+
+<!-- RECENT_ACTIVITY: last_update -- >
+
+Last Updated: Wednesday, February 18th, 2026, 9:50:43 PM
+
+<!-- RECENT_ACTIVITY:last_update_end -- >
+
+---
+
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/miguelhcalderong/)
 - [Email](mailto:devnexuz@outlook.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/DevNexuz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevNexuz/DevNexuz) 
+
+---
+
+
+
 
 
