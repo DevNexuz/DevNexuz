@@ -1,30 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-# 👋 Hi, I'm **Mykuz DevNexuz** (Miguel H Calderon).
+# 👋 Hi, I'm Mykuz DevNexuz
 
-Artist, Developer, Writer, and Project Manager  
-Passionate about **technology, artificial intelligence, and learning systems**.
+### (Miguel H Calderon)
+
+**Artist, Developer, Writer, and Project Manager** Passionate about technology, artificial intelligence, and learning systems.
 
 I work at the intersection of **human languages and machine languages**,  
 combining creativity, logic, and structure to build meaningful systems.
+
+[![GitHub followers](https://img.shields.io/github/followers/DevNexuz?style=social)](https://github.com/DevNexuz)
+</div>
 
 ---
 
 ## 🚀 What I do
 
-- Build and explore software systems through experimentation  
-- Learn and teach programming fundamentals and AI concepts  
-- Develop creative and technical projects with a long-term mindset  
+- **Build & Explore:** Software systems through experimentation.
+- **Teach & Learn:** Programming fundamentals and AI concepts.
+- **Create:** Creative and technical projects with a long-term mindset.
 
 This GitHub is a **laboratory** for learning, testing, and growing.
 
 ---
 
 ## 🧪 DevNexuz
-Development, programming, automation, and AI experimentation.
+> Development, programming, automation, and AI experimentation.
 
 ## 🎨 MykuzArt Nexuz
-Artistic, narrative, and conceptual creative projects.
+> Artistic, narrative, and conceptual creative projects.
 
 ---
 
@@ -37,27 +41,29 @@ Python · HTML/CSS/JS (basic) · Systems · Automation · LLMs · AI workflows
 Strong foundations, continuous learning, thoughtful experimentation.  
 Understanding over speed. Growth over trends.
 
-
 ---
-## 🌎 Languages
 
-Open to collaboration in English, Spanish, or Portuguese.
+## 🌎 Languages
+Open to collaboration in **English, Spanish, or Portuguese**.  
 Always happy to learn more.
 
 ---
 
-## 🔧Recent Activity
+## 🔧 Recent Activity
 
-<!-- START_SECTION: activity -- >
+<!--START_SECTION:activity-->
 
-<!-- END_SECTION: activity -- >
 
-<!-- RECENT_ACTIVITY: last_update -- >
+
+<!--END_SECTION:activity-->
+
+
+
+<!--RECENT_ACTIVITY:last_update-->
 
 Last Updated: Wednesday, February 18th, 2026, 9:50:43 PM
 
-<!-- RECENT_ACTIVITY:last_update_end -- >
-
+<!--RECENT_ACTIVITY:last_update_end-->
 ---
 
 ## 📫 Contact
@@ -65,11 +71,5 @@ Last Updated: Wednesday, February 18th, 2026, 9:50:43 PM
 - [LinkedIn](https://www.linkedin.com/in/miguelhcalderong/)
 - [Email](mailto:devnexuz@outlook.com)
 
-![GitHub followers](https://img.shields.io/github/followers/DevNexuz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevNexuz/DevNexuz) 
-
----
-
-
-
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevNexuz/DevNexuz)
 
