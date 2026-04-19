@@ -27,7 +27,7 @@ This GitHub is a **laboratory** for learning, testing, and growing.
 ## 🧪 DevNexuz
 > Development, programming, automation, and AI experimentation.
 
-## 🎨 MykuzArt Nexuz
+## 🎨 MykuzNexuz
 > Artistic, narrative, and conceptual creative projects.
 
 ---
